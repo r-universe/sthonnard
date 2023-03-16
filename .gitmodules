@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ssimparser"]
+	path = ssimparser
+	url = https://github.com/sthonnard/ssimparser
+	shallow = true
+	registered = true
+[submodule "tzupdater"]
+	path = tzupdater
+	url = https://github.com/sthonnard/tzupdater
+	shallow = true
+	registered = true

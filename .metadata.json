@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ssimparser",
+    "oncran": true
+  },
+  {
+    "package": "tzupdater",
+    "oncran": true
+  }
+]
